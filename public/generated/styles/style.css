@@ -1,0 +1,696 @@
+.industry-research {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 50px;
+  position: relative;
+  background-color: #ffffff;
+  height: 100%;
+}
+
+.industry-research .page-banner {
+  position: relative;
+  width: 1440px;
+  height: 279px;
+  background-color: var(--dvt-colour-stylesdvt-blue);
+}
+
+.industry-research .overlap-group {
+  height: 279px;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(120.06, 120.06, 120.06, 0) 0%, rgb(0, 0, 0) 100%);
+}
+
+.industry-research .frame {
+  display: flex;
+  width: 1340px;
+  align-items: flex-start;
+  gap: 50px;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+.industry-research .div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.industry-research .logo {
+  position: relative;
+  width: 125px;
+  height: 53.01px;
+}
+
+.industry-research .line {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 2px;
+}
+
+.industry-research .frame-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.industry-research .product-overview {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--dvt-colour-stylesdvt-yellow);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.industry-research .frame-3 {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.industry-research .heading {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.industry-research .sub-heading {
+  position: relative;
+  width: fit-content;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.industry-research .frame-4 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 195px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.industry-research .back-to-index {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.industry-research .arrow-right {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.industry-research .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--dvt-colour-stylesdvt-yellow);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.industry-research .research-paper {
+  position: relative;
+  width: 169.52px;
+  height: 150px;
+}
+
+.industry-research .text-containers {
+  gap: 50px;
+  padding: 0px 50px 50px;
+  background-color: var(--dvt-colour-styleswhite);
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.industry-research .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.industry-research .frame-5 {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.industry-research .frame-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 32px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #e7f7ff;
+  border-radius: 20px;
+}
+
+.industry-research .text {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--gray-900);
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.industry-research .flexcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.industry-research .text-i {
+  position: relative;
+  align-self: stretch;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-weight: 400;
+  color: #05101d;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.industry-research .span {
+  font-weight: 500;
+}
+
+.industry-research .text-wrapper-3 {
+  font-family: "Helvetica Neue-Light", Helvetica;
+  font-weight: 300;
+}
+
+.industry-research .analysis-rafiki {
+  position: relative;
+  width: 314.46px;
+  height: 285px;
+}
+
+.industry-research .container-header {
+  display: flex;
+  width: 1440px;
+  align-items: flex-start;
+  gap: 55px;
+  padding: 0px 50px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--dvt-colour-styleswhite);
+}
+
+.industry-research .container-header-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.industry-research .modal-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: flex-start;
+  gap: 9px;
+  padding: 0px 50px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.industry-research .modal {
+  display: flex;
+  flex-direction: column;
+  width: 1340px;
+  align-items: center;
+  gap: 32px;
+  padding: 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--dvt-colour-stylesdvt-grey-super-light);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.industry-research .div-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.industry-research .text-and-supporting {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.industry-research .text-2 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--gray-900);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.industry-research .span-wrapper {
+  position: relative;
+  align-self: stretch;
+  font-family: "Helvetica Neue-Light", Helvetica;
+  font-weight: 300;
+  color: #05101d;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.industry-research .text-wrapper-4 {
+  font-family: "Helvetica Neue-Light", Helvetica;
+  font-weight: 300;
+  color: #05101d;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.industry-research .frame-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.industry-research .supporting-text {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: #05101d;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.industry-research .supporting-text-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 0px 0px 0px 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.industry-research .p {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Light", Helvetica;
+  font-weight: 300;
+  color: #05101d;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.industry-research .frame-wrapper {
+  gap: 8px;
+  padding: 0px 50px;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.industry-research .frame-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--dvt-colour-stylesdvt-grey-super-light);
+  border-radius: 20px;
+}
+
+.industry-research .frame-9 {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.industry-research .terminology-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  border-radius: 10px;
+  box-shadow: 0px 8px 20px #00000012, 0px 0px 2px #0000004c;
+}
+
+.industry-research .note-area {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.industry-research .label-types {
+  align-items: flex-start;
+  display: inline-flex;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.industry-research .label-notes {
+  align-items: center;
+  gap: 5px;
+  padding: 5px 6px;
+  margin-top: -1px;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  background-color: var(--dvtdvt-blue);
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #2632381a;
+  display: inline-flex;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.industry-research .open-questions {
+  font-size: 14px;
+  line-height: 12px;
+  position: relative;
+  width: fit-content;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.industry-research .add-description-here {
+  position: relative;
+  align-self: stretch;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--black-text);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.industry-research .footer {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 176px;
+  background-color: var(--dvt-colour-stylesdvt-blue);
+}
+
+.industry-research .overlap {
+  width: 1440px;
+  height: 176px;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(120.06, 120.06, 120.06, 0) 0%, rgb(0, 0, 0) 100%);
+}
+
+.industry-research .frame-10 {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 176px;
+  align-items: center;
+  gap: 25px;
+  padding: 50px;
+  position: relative;
+}
+
+.industry-research .divider {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  background-color: var(--gray-200);
+}
+
+.industry-research .frame-11 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.industry-research .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  gap: 12.5px;
+  padding: 15px 25px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 50px;
+  border: 2px solid;
+  border-color: #ffffff;
+}
+
+.industry-research .open-index {
+  margin-top: -2px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 20px;
+  position: relative;
+  width: fit-content;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.industry-research .page-navigation {
+  display: flex;
+  flex-direction: column;
+  width: 40px;
+  align-items: flex-start;
+  gap: 25px;
+  position: absolute;
+  top: 531px;
+  left: 0;
+}
+
+.industry-research .back-to-indexx {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 137px;
+  background-color: #99cce3bf;
+  border-radius: 0px 25px 25px 0px;
+}
+
+.industry-research .back-to-index-2 {
+  position: absolute;
+  height: 10px;
+  top: 62px;
+  left: -26px;
+  transform: rotate(-90deg);
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--dvt-colour-stylesdvt-blue);
+  white-space: nowrap;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.industry-research .text-wrapper-5 {
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #007fba;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+
+.industry-research .text-wrapper-6 {
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.industry-research .left {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 50px;
+  background-color: #99cce3bf;
+  border-radius: 0px 25px 25px 0px;
+}
+
+.industry-research .chevron-left {
+  width: 41px;
+  position: absolute;
+  height: 50px;
+  top: 0;
+  left: 0;
+}
+
+.industry-research .page-navigation-2 {
+  display: flex;
+  flex-direction: column;
+  width: 40px;
+  align-items: flex-start;
+  gap: 25px;
+  position: absolute;
+  top: 451px;
+  left: 1400px;
+}
+
+.industry-research .to-other-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 24px 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #99cce3bf;
+  border-radius: 25px 0px 0px 25px;
+}
+
+.industry-research .jump-to-interface {
+  position: relative;
+  width: fit-content;
+  margin-left: -80.5px;
+  margin-right: -80.5px;
+  transform: rotate(-90deg);
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--dvt-colour-stylesdvt-blue);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.industry-research .right {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 50px;
+  background-color: #99cce3bf;
+  border-radius: 25px 0px 0px 25px;
+}
+
+.industry-research .chevron-right {
+  width: 40px;
+  position: absolute;
+  height: 50px;
+  top: 0;
+  left: 0;
+}
